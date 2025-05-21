@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+End_to_End_ML_Project_with_ETL_AND_Network_Security.egg-info/
